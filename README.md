@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </p>
 
 <div>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thyaguixx&layout=compact&theme=dracula")             (https://github.com/Thyaguixx/github-readme-stats)"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thyaguixx&layout=compact&theme=dracula"            (https://github.com/Thyaguixx/github-readme-stats)"/>
 </div>
 
 - 🌱 I’m currently learning ...
