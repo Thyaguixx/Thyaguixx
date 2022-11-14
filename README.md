@@ -19,6 +19,14 @@ Here are some ideas to get you started:
 - **Ferramentas Low-Code:** GeneXus
 
 
+<p>
+  <a href="https://www.instagram.com/thyaguix_/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/nicolasbonf_/"/></a>
+</p>
+
+<div>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thyaguixx&layout=compact&theme=dracula")             (https://github.com/Thyaguixx/github-readme-stats)"/>
+</div>
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
