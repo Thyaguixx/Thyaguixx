@@ -1,7 +1,5 @@
-### Um pouco sobre mim
+✨ ### Um pouco sobre mim ✨ 
 
-
-✨ _special_ ✨ 
 
 <p>
   👋 Olá, me chamo Thyago Martins Silveira, realizei meu ensino médio-técnico no Instituto Federal de São José dos Campos (IFSP), portanto sou formado como Técnico em Automação Industrial. Atualmente estou cursando meu 2º semestre em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São José dos Campos.
