@@ -13,10 +13,13 @@ Here are some ideas to get you started:
   Algumas das tecnologias que já tive contato:
 </p>
 
-  - Linguagens de Programação: Python, Java, HTML e CSS, JavaScript, C++.
-  - Frameworks: Flask, Bootstrap.
-  - Ferramentas: Visual Studio Code, Apache Netbeans, PyCharm
-  - Ferramentas Low-Code: GeneXus
+- **Linguagens de Programação:** Python, Java, HTML e CSS, JavaScript, C++.
+- **Frameworks:** Flask, Bootstrap.
+- **Ferramentas:** Visual Studio Code, Apache Netbeans, PyCharm
+- **Ferramentas Low-Code:** GeneXus
+
+
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
