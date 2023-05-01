@@ -1,4 +1,4 @@
-✨ <h2><b>Um pouco sobre mim</b></h2>✨ 
+<h2><b>Um pouco sobre mim</b></h2>
 
 
 <p>
