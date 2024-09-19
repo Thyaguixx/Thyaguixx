@@ -2,7 +2,7 @@
 
 
 <p>
-  👋 Olá, me chamo Thyago Martins Silveira, realizei meu ensino médio-técnico no Instituto Federal de São José dos Campos (IFSP), portanto sou formado como Técnico em Automação Industrial. Atualmente estou cursando meu 3º semestre em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São José dos Campos.
+  👋 Olá, me chamo Thyago Martins Silveira, realizei meu ensino médio-técnico no Instituto Federal de São José dos Campos (IFSP), portanto sou formado como Técnico em Automação Industrial. Atualmente estou cursando meu 6º e último semestre em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São José dos Campos.
 </p>
 
 <div alinhar = "centro">
