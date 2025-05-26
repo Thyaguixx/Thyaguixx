@@ -2,11 +2,11 @@
 
 
 <p>
-  👋 Olá, me chamo Thyago Martins Silveira, realizei meu ensino médio-técnico no Instituto Federal de São José dos Campos (IFSP), portanto sou formado como Técnico em Automação Industrial. Atualmente estou cursando meu 6º e último semestre em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São José dos Campos.
+  👋 Olá, me chamo Thyago Martins Silveira, realizei meu ensino médio-técnico no Instituto Federal de São José dos Campos (IFSP), portanto sou formado como Técnico em Automação Industrial. Sou graduado em Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal de São José dos Campos.
 </p>
 
 <p>
-  Trabalho como Desenvolvedor Júnior GeneXus na empresa JETSOFT.
+  Atualmente sou Desenvolvedor Júnior GeneXus na empresa JETSOFT.
 </p>
 
 <div alinhar = "centro">
