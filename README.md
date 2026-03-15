@@ -21,7 +21,7 @@
   Algumas das tecnologias que já tive contato:
 </p>
 
-- **Frameworks:** Flask, Bootstrap.
+- **Frameworks:** Flask, Bootstrap, React, React Native, Material UI, Phoenix (elixir)
 - **Ferramentas:** Visual Studio Code, Apache Netbeans, PyCharm
 - **Ferramentas Low-Code:** GeneXus
 
@@ -41,5 +41,3 @@
 </p>
 
 <br>
-
-![Snake animation](https://github.com/Thyaguixx/Thyaguixx/blob/output/github-contribution-grid-snake.svg)
