@@ -6,7 +6,7 @@
 </p>
 
 <p>
-  Atualmente sou Desenvolvedor Júnior GeneXus na empresa JETSOFT.
+  Atualmente sou Desenvolvedor Júnior GeneXus e Desenvolvedor FullStack Mobile na empresa JETSOFT.
 </p>
 
 <div alinhar = "centro">
