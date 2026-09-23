@@ -6,7 +6,7 @@
 </p>
 
 <p>
-  Atualmente sou Desenvolvedor Júnior GeneXus e Desenvolvedor FullStack Mobile na empresa JETSOFT.
+  Atualmente sou Desenvolvedor Júnior GeneXus e Desenvolvedor FullStack & FullStack Mobile na empresa JETSOFT.
 </p>
   
 <br>
@@ -15,7 +15,7 @@
   Algumas das tecnologias que já tive contato:
 </p>
 
-- **Frameworks:** Flask, Bootstrap, React, React Native, Material UI, Phoenix (elixir)
+- **Frameworks:** Flask, Bootstrap, React, React Native, Material UI, Flutter, GoLang
 - **Ferramentas:** Visual Studio Code, Apache Netbeans, PyCharm
 - **Ferramentas Low-Code:** GeneXus
 
